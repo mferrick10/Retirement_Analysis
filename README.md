@@ -9,12 +9,12 @@ for hire as well as the new hires for the retiring employees as they leave. We s
 pair them up more effectively.
 
 ### Pictures of Queries
-Sample of employees retiring
+##### Sample of employees retiring
 ![employees retiring](table_images/employees_retiring.PNG)
-Total number of employees retiring by title
+##### Total number of employees retiring by title
 ![title count of retiring employees](table_images/title_count_retiring_employees.PNG)
-Sample of eligible employees for mentors
+##### Sample of eligible employees for mentors
 ![eligible for mentor](table_images/eligible_for_mentor.PNG)
 
-ERD of tables in Database
+##### ERD of tables in Database
 ![ERD Diagram](table_images/ERD.png)
